@@ -1,6 +1,5 @@
 package com.example.tickets;
 
-import java.util.List;
 
 public class TicketService {
 
